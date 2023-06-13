@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Subham Mishra<br>👀 I’m a Full Stack Web Developer (MERN) and AI Enthusiast <br> I’m currently learning Machine Learning and Deep Learning<br>💬 Ask me about React , Machine Learning<br>📫 How to reach me msubham193@gmail.com<br>👨‍💻 All of my projects are available at subhammishra.tech<br>
+Hi 👋, I'm Subham Mishra<br>👀 I’m a Full Stack Web Developer (MERN) and AI Enthusiast <br> I’m currently learning Machine Learning <br>💬 Ask me about React , Machine Learning<br>📫 How to reach me msubham193@gmail.com<br>👨‍💻 All of my projects are available at subhammishra.tech<br>
 
 
 ## 🌐 Socials:
